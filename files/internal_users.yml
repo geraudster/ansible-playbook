@@ -20,7 +20,7 @@ kibanaserver:
   reserved: true
   description: "kibanaserver user"
 
-logstash:
-  hash: "{{ logstash_password }}"
-  reserved: true
-  description: "logstash user"
+#logstash:
+#  hash: "{{ logstash_password }}"
+#  reserved: true
+#  description: "logstash user"
